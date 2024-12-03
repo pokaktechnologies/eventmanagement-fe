@@ -1,0 +1,64 @@
+name: pokakevent_management
+description: "A new Flutter project."
+
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  smooth_page_indicator: ^1.2.0+3
+  flutter_bloc: ^8.1.0
+  gap: ^3.0.1
+  animated_botton_navigation: ^0.0.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+  flutter_lints: ^4.0.0
+
+
+flutter:
+
+  
+  uses-material-design: true
+
+  assets:
+     - assets/b9e9eaef07e624732dcdc26fb2424c9c.jpeg
+     - assets/second.jpeg
+     - assets/onboard2.jpeg
+     - assets/on_board screen3.jpeg
+     - assets/onboardscreen4.jpeg
+     - assets/signin.png
+     - assets/otpscreen.jpeg
+     - assets/profilejpeg.jpeg
+     - assets/locationscreen.jpeg
+     - assets/eventsvedan.jpeg
+     - assets/event/eventLe.jpeg
+     - assets/CarShow.png
+     - assets/abchall.jpeg
+     - assets/ajhall.jpeg
+     - assets/rkhalljpeg.jpeg
+     - assets/Phographyev.jpeg
+     - assets/hall1.jpeg
+     - assets/hall2.jpeg
+     - assets/hall3.jpeg
+     - assets/hall5.jpeg
+     - assets/bestdealhall.jpeg
+     - assets/xywhall.jpeg
+     - assets/profile.jpeg
+     - assets/homescreen.png
+     - assets/indianwedding.jpeg
+ 
